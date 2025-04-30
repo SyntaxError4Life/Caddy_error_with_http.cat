@@ -5,7 +5,7 @@ Caddy configuration to display a custom HTML error page with a dynamic image fro
 ## Preview
 ![Error Page](img/screenshot.png)
 
-*Example: Implemented on rv0.fr*
+*Example: Implemented on https://rv0.fr*
 
 ## Prerequisites
 - Caddy v2.10.0
