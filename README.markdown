@@ -42,6 +42,12 @@ Example for the site `[your_domain]`:
     file_server
     import error_page
 }
+
+# You can force an error like on my website, here is my config
+rv0.fr {
+    error 401
+    import error_page
+}
 ```
 
 ## Installation
