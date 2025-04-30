@@ -3,7 +3,7 @@
 Caddy configuration to display a custom HTML error page with a dynamic image from `https://http.cat` for any HTTP error code (e.g., 404, 401).
 
 ## Preview
-![404 Error Page](img/screenshot.png)
+![401 Error Page](img/screenshot.png)
 
 ## Prerequisites
 - Caddy v2.10.0
